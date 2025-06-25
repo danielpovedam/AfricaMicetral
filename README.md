@@ -24,7 +24,6 @@ All scripts used in the different analysis steps are included in this repository
 ## Contact
 
 **Daniel Poveda Martinez**  
-[GitHub profile](https://github.com/danielpovedam)  
 Email: danielpovedam@gmail.com 
 
 ## License
