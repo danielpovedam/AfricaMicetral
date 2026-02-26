@@ -12,4 +12,4 @@
 # Run 
 for i in {1..3}
 do
-python runMCMC.py --input_file house_mouse.txt --outgroup OUTGROUP --n 500000 --result_file  chain${i}.txt --MCMC_chains 40 --max_admixes 5
+python runMCMC.py --input_file house_mouse.txt --outgroup OUTGROUP --n 250000 --result_file  chain${i}.txt --MCMC_chains 40 --max_admixes 10
