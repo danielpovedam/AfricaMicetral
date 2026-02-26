@@ -4,7 +4,7 @@
 #SBATCH -e /work/project/Micetral/steps/logs/map_%j_%a.err
 #SBATCH -t 72:00:00
 #SBATCH -p workq
-#SBATCH --array=1-420%10
+#SBATCH --array=1-380%10
 #SBATCH --ntasks=8
 #SBATCH --mem=32G
 
