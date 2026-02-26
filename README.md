@@ -1,8 +1,8 @@
 **Git repository for the MICETRAL project at CBGP-IRD.**  
 **Title of submitted manuscript:**  
-*Invasion dynamics of the house mouse in Africa reveal multiple Eurasian origins, interspecific admixture, and human-mediated dispersal*
+*Multiple Eurasian origins and interspecific admixture shaped the invasion dynamics of the house mouse in Africa*
 
-We present a large-scale population genomic analysis of 416 whole-genome sequences, including 333 new low-coverage genomes, to investigate the colonization history of African house mouse (*Mus musculus domesticus*) populations.
+We present a large-scale population genomic analysis of 416 whole-genome sequences, including 303 new low-coverage genomes, to investigate the colonization history of African house mouse (*Mus musculus domesticus*) populations.
 
 All scripts used in the different analysis steps are included in this repository.
 
