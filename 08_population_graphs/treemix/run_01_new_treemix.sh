@@ -21,7 +21,7 @@ CONSENSE="/usr/local/bioinfo/src/PHYLIP/phylip-3.697/exe/consense"
 OUTPUT_DIR="mice_output"
 M_MIN=0
 M_MAX=10
-REPLICATES=25     # important for Evanno variance
+REPLICATES=50     # important for Evanno variance
 
 mkdir -p ${OUTPUT_DIR}
 
